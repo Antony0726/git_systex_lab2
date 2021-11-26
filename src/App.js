@@ -24,7 +24,7 @@ class App extends Component {
       { name: "Kevin", experience: 1 },
       { name: "Tim", experience: 2 },
     ],
-    title: "Hello React",
+    title: "Hello React From Heroku",
     showPersons: false,
   };
   changeNameHandler = (teamLead) => {
